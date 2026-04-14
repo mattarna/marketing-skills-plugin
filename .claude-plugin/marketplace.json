@@ -9,8 +9,11 @@
   "plugins": [
     {
       "name": "marketing-skills",
-      "source": ".",
-      "description": "Sistema end-to-end di 38 skill per marketing info-business ITA: strategia, personas, branding, copy, landing, funnel, LinkedIn, newsletter, lancio.",
+      "source": {
+        "source": "github",
+        "repo": "mattarna/marketing-skills-plugin"
+      },
+      "description": "Sistema end-to-end di 38 skill per marketing info-business ITA",
       "version": "1.0.0",
       "author": {
         "name": "Matt"
