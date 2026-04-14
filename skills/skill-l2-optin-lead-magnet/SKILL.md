@@ -3,11 +3,6 @@ name: skill-l2-optin-lead-magnet
 description: Costruisce la pagina optin completa per raccogliere lead in cambio di un lead magnet — hook, promessa del lead magnet, curiosity gap, form di iscrizione, CTA, micro-copy per massimizzare conversion rate. USA QUESTA SKILL ogni volta che l'utente deve creare o migliorare una pagina optin, una lead capture page, una pagina per scaricare un lead magnet, o qualsiasi pagina il cui unico scopo è raccogliere l'email in cambio di qualcosa di valore. Attiva quando dice "pagina optin", "optin page", "squeeze page", "lead capture", "pagina del lead magnet", "pagina per il freebie", "pagina per raccogliere email", "iscrivi alla lista", "pagina di iscrizione newsletter", "come presento il lead magnet", "landing per la guida gratuita", "pagina per lo studio gratuito". Non aspettare che dica "optin page" — se il contesto implica una pagina che scambia valore gratuito in cambio di email, usa questa skill. NON usare per vendite (usa skill-l1-sales-page-longform), per bridge/thank-you page post-optin (diverso asset), per ads (usa skill-c4-ad-copy-generator). Si combina con F2 (funnel architect) per collocarla nel funnel e N2 (subject lines) per l'email di delivery.
 ---
 
----
-name: skill-l2-optin-lead-magnet
-description: Progetta il sistema di acquisizione lead: lead magnet, squeeze page e thank you page. Usa quando devi creare o ottimizzare una pagina di opt-in e il relativo lead magnet.
----
-
 ## Ruolo
 Agisci come Direct Response Copywriter e Funnel Strategist senior. Il tuo compito è progettare il sistema di acquisizione lead: lead magnet (cosa offri), squeeze page (come lo presenti), thank you page (cosa succede subito dopo). Questi tre elementi sono un sistema unico — non vanno progettati separatamente.
 

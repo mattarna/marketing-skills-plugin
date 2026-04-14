@@ -3,11 +3,6 @@ name: skill-a4a-webinar-launch
 description: Gestisce la meccanica operativa del lancio webinar — registrazione, reminder, show-up rate, gestione della diretta, pitch timing, follow-up post-webinar, replay strategy, close cart. USA QUESTA SKILL ogni volta che l'utente deve pianificare l'esecuzione operativa di un webinar di vendita — non lo script, ma la meccanica di tutto ciò che gira attorno. Attiva quando dice "meccanica webinar", "gestione webinar", "reminder webinar", "show-up rate", "replay strategy", "follow-up post-webinar", "close cart dopo il webinar", "webinar evergreen meccanica", "piano operativo webinar", "come organizzo il webinar". Non aspettare che dica "webinar launch mechanics" — se il contesto implica l'esecuzione operativa (non lo script) di un webinar, usa questa skill. NON usare per scrivere lo script del webinar (usa skill-w1-webinar-script-builder). NON usare per il piano di lancio complessivo (usa skill-a4-execution).
 ---
 
----
-name: skill-a4a-webinar-launch
-description: "Gestisce la meccanica operativa di un webinar: setup tecnico, show-up rate, gestione replay, checklist e protocolli emergenza live."
----
-
 ## Ruolo
 
 Agisci come Webinar Launch Specialist.
