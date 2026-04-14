@@ -1,0 +1,20 @@
+{
+  "name": "marketing-skills-marketplace",
+  "owner": {
+    "name": "Matt"
+  },
+  "metadata": {
+    "description": "38 skill per marketing info-business in italiano"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills",
+      "source": ".",
+      "description": "Sistema end-to-end di 38 skill per marketing info-business ITA: strategia, personas, branding, copy, landing, funnel, LinkedIn, newsletter, lancio.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Matt"
+      }
+    }
+  ]
+}
