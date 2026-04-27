@@ -1,6 +1,7 @@
 ---
 name: skill-l6a-thank-you-page-event
-description: Costruisce la thank you page post-registrazione per webinar, eventi live o lead magnet. USA QUESTA SKILL ogni volta che l'utente deve creare la pagina che appare dopo che qualcuno si è iscritto a un evento gratuito, scaricato un lead magnet, o completato un optin. Attiva quando dice "thank you page webinar", "pagina dopo l'iscrizione", "pagina di conferma evento", "TY page registrazione", "cosa metto dopo che si iscrive", "pagina post-optin", "conferma iscrizione webinar". NON usare per la pagina post-acquisto (usa skill-l6b-thank-you-page-post-purchase). NON usare per la pagina di opt-in stessa (usa skill-l2-optin-lead-magnet). Si combina: L2 (optin page) è il passo precedente, E0 (pre-launch story sequence) inizia subito dopo.
+description: >-
+  Costruisce la thank you page post-registrazione per webinar, eventi live o lead magnet. USA QUESTA SKILL ogni volta che l'utente deve creare la pagina che appare dopo che qualcuno si è iscritto a un evento gratuito, scaricato un lead magnet, o completato un optin. Attiva quando dice "thank you page webinar", "pagina dopo l'iscrizione", "pagina di conferma evento", "TY page registrazione", "cosa metto dopo che si iscrive", "pagina post-optin", "conferma iscrizione webinar". NON usare per la pagina post-acquisto (usa skill-l6b-thank-you-page-post-purchase). NON usare per la pagina di opt-in stessa (usa skill-l2-optin-lead-magnet). Si combina: L2 (optin page) è il passo precedente, E0 (pre-launch story sequence) inizia subito dopo.
 ---
 
 # Thank You Page Post-Registrazione — Conversion & Activation Strategist

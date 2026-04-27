@@ -1,6 +1,7 @@
 ---
 name: skill-l6b-thank-you-page-post-purchase
-description: Costruisce la thank you page post-acquisto per corsi, programmi, membership o servizi digitali. USA QUESTA SKILL ogni volta che l'utente deve creare la pagina che appare dopo che qualcuno ha completato un acquisto. Attiva quando dice "thank you page post-acquisto", "pagina dopo il pagamento", "pagina di conferma acquisto", "TY page corso", "cosa metto dopo che compra", "pagina post-checkout", "conferma ordine". NON usare per la pagina post-registrazione a un evento gratuito (usa skill-l6a-thank-you-page-event). Si combina: L1 (sales page) e checkout Stripe sono i passi precedenti, R1 (post-purchase onboarding) e R2 (upsell sequence) partono da qui.
+description: >-
+  Costruisce la thank you page post-acquisto per corsi, programmi, membership o servizi digitali. USA QUESTA SKILL ogni volta che l'utente deve creare la pagina che appare dopo che qualcuno ha completato un acquisto. Attiva quando dice "thank you page post-acquisto", "pagina dopo il pagamento", "pagina di conferma acquisto", "TY page corso", "cosa metto dopo che compra", "pagina post-checkout", "conferma ordine". NON usare per la pagina post-registrazione a un evento gratuito (usa skill-l6a-thank-you-page-event). Si combina: L1 (sales page) e checkout Stripe sono i passi precedenti, R1 (post-purchase onboarding) e R2 (upsell sequence) partono da qui.
 ---
 
 # Thank You Page Post-Acquisto — Onboarding & Retention Strategist

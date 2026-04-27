@@ -1,16 +1,7 @@
 ---
 name: skill-b1-vsl-script
-description: >
-  Scrive uno script Video Sales Letter (VSL) completo e conversion-ottimizzato per info-business italiani.
-  USA QUESTA SKILL ogni volta che l'utente vuole creare, strutturare o scrivere una VSL, uno script video di vendita,
-  uno script per un video promozionale, una video sales letter, o qualsiasi script video il cui scopo finale è
-  convertire lo spettatore in lead, iscritto o acquirente. Attiva anche quando l'utente dice "voglio fare un video
-  di vendita", "voglio uno script per presentare il mio corso/prodotto/servizio in video", "voglio una VSL per il
-  lancio", "scrivi lo script del mio video sales". Produce SEMPRE in 2 fasi separate e sequenziali:
-  FASE A → struttura + flusso approvato dall'utente, FASE B → script completo sezione per sezione.
-  Non scrivere mai una sola parola di script prima che la struttura sia approvata.
-  NON usare per script webinar (usa skill-w1-webinar-script-builder: diverso timing, diverso arco narrativo, diverso pitch). NON usare per sales page scritta (usa skill-l1-sales-page-longform).
-  Si combina: P6 (unique mechanism) alimenta il "why it works" della VSL, C5 (offer copy) la sezione offerta, C6 (objection handler) la sezione obiezioni.
+description: >-
+  Scrive uno script Video Sales Letter (VSL) completo e conversion-ottimizzato per info-business italiani. USA QUESTA SKILL ogni volta che l'utente vuole creare, strutturare o scrivere una VSL, uno script video di vendita, uno script per un video promozionale, una video sales letter, o qualsiasi script video il cui scopo finale è convertire lo spettatore in lead, iscritto o acquirente. Attiva anche quando l'utente dice "voglio fare un video di vendita", "voglio uno script per presentare il mio corso/prodotto/servizio in video", "voglio una VSL per il lancio", "scrivi lo script del mio video sales". Produce SEMPRE in 2 fasi separate e sequenziali: FASE A → struttura + flusso approvato dall'utente, FASE B → script completo sezione per sezione. Non scrivere mai una sola parola di script prima che la struttura sia approvata. NON usare per script webinar (usa skill-w1-webinar-script-builder: diverso timing, diverso arco narrativo, diverso pitch).
 ---
 
 # VSL Script — Direct Response Copywriter Senior

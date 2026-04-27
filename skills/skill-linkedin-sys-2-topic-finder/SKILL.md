@@ -1,6 +1,7 @@
 ---
 name: skill-linkedin-sys-2-topic-finder
-description: Trova il tema del post LinkedIn dell'utente — con ricerca online e brief strutturato pronto per la skill di creazione post. USA QUESTA SKILL ogni volta che si deve preparare un post LinkedIn, come primo step prima della creazione. Si biforca in due path: Branch A se l'utente ha già un tema, Branch B se parte da zero. Funziona per qualsiasi settore e tipo di professionista. Richiede la knowledge base generata dalla skill-linkedin-sys-1-profiler.
+description: >-
+  Trova il tema del post LinkedIn dell'utente — con ricerca online e brief strutturato pronto per la skill di creazione post. USA QUESTA SKILL ogni volta che si deve preparare un post LinkedIn, come primo step prima della creazione. Si biforca in due path: Branch A se l'utente ha già un tema, Branch B se parte da zero. Funziona per qualsiasi settore e tipo di professionista. Richiede la knowledge base generata dalla skill-linkedin-sys-1-profiler.
 ---
 
 # LinkedIn Topic Finder

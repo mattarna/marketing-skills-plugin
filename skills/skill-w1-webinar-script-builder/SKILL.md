@@ -1,16 +1,7 @@
 ---
 name: skill-w1-webinar-script-builder
-description: >
-  Scrive uno script webinar completo e conversion-ottimizzato, basato sul Perfect Webinar di Russell Brunson
-  riadattato per il mercato italiano. USA QUESTA SKILL ogni volta che l'utente vuole creare, strutturare o
-  scrivere un webinar, uno script per una presentazione di vendita, un webinar evergreen o registrato.
-  Attiva anche quando dice "voglio fare un webinar", "script per la presentazione di vendita",
-  "webinar per il funnel", "webinar da mandare dopo la discovery call", "webinar per il lancio",
-  "prepara la presentazione che chiude", "webinar per il mio corso/servizio/mentorship", o quando
-  nel funnel si menziona il webinar come asset. Produce in 2 fasi: FASE A struttura approvata,
-  FASE B script completo. Non scrivere script prima che la struttura sia approvata.
-  NON usare per VSL brevi (<20 min) che seguono arco direct response (usa skill-b1-vsl-script). NON usare per la sola meccanica operativa del webinar senza script (usa skill-a4a-webinar-launch).
-  Si combina: P6 (unique mechanism) diventa il "One Thing" del webinar, C5 (offer copy) la sezione pitch, C6 (objection handler) l'ultima parte.
+description: >-
+  Scrive uno script webinar completo e conversion-ottimizzato, basato sul Perfect Webinar di Russell Brunson riadattato per il mercato italiano. USA QUESTA SKILL ogni volta che l'utente vuole creare, strutturare o scrivere un webinar, uno script per una presentazione di vendita, un webinar evergreen o registrato. Attiva anche quando dice "voglio fare un webinar", "script per la presentazione di vendita", "webinar per il funnel", "webinar da mandare dopo la discovery call", "webinar per il lancio", "prepara la presentazione che chiude", "webinar per il mio corso/servizio/mentorship", o quando nel funnel si menziona il webinar come asset. Produce in 2 fasi: FASE A struttura approvata, FASE B script completo. Non scrivere script prima che la struttura sia approvata. NON usare per VSL brevi (<20 min) che seguono arco direct response (usa skill-b1-vsl-script). NON usare per la sola meccanica operativa del webinar senza script (usa skill-a4a-webinar-launch).
 ---
 
 # Webinar Script Builder — Conversion Strategist Senior

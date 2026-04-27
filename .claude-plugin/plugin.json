@@ -1,4 +1,8 @@
 {
   "name": "marketing-skills",
   "version": "3.0.0",
-  "description": "Sistema end-to-end di 59 skill per marketing info-business ITA: strategia, personas, branding, copy, landing, funnel, email, webinar, LinkedIn, newsletter, lancio, retention, affiliati, re-engagement challenge. Inclu
+  "description": "59 skill per marketing info-business ITA con orchestratore e KB Hormozi/Fladlien",
+  "author": {
+    "name": "Matt"
+  }
+}
