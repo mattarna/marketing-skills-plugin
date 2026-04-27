@@ -1,18 +1,13 @@
 {
   "name": "marketing-skills-marketplace",
   "owner": {
-    "name": "Matt",
-    "email": "matteo@morfeushub.com"
+    "name": "Matt"
   },
   "plugins": [
     {
       "name": "marketing-skills",
-      "description": "Sistema end-to-end di 59 skill per marketing info-business ITA con orchestratore intelligente e knowledge base Hormozi/Fladlien",
-      "version": "3.0.0",
-      "source": {
-        "type": "github",
-        "repo": "mattarna/marketing-skills-plugin"
-      }
+      "source": ".",
+      "description": "Sistema end-to-end di 59 skill per marketing info-business ITA con orchestratore intelligente e knowledge base Hormozi/Fladlien"
     }
   ]
 }
