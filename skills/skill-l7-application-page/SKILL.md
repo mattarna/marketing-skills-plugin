@@ -1,18 +1,6 @@
 ---
 name: skill-l7-application-page
-description: >
-  Costruisce pagine di candidatura o survey funnel per qualificazione di offerte
-  alta ticket. USA QUESTA SKILL ogni volta che l'utente deve creare una pagina dove
-  il prospect compila un form per essere valutato prima di accedere all'offerta,
-  prenotare una call di vendita, o candidarsi a un programma con criteri di accesso.
-  Attiva quando dice "pagina di candidatura", "application page", "pagina di
-  qualificazione", "survey funnel", "form per la call", "voglio qualificare i
-  prospect prima della call", "pagina per prenotare la chiamata", "voglio che si
-  candidino", "criteri di accesso al programma", "selezionare i candidati",
-  "scheda di candidatura". NON usare per semplici pagine di prenotazione calendario
-  senza qualificazione. NON usare per optin page con solo email (usa
-  skill-l2-optin-lead-magnet). Si combina: S1 (sales call script) usa le
-  risposte dell'application per personalizzare la discovery.
+description: Costruisce pagine di candidatura o survey funnel per qualificazione di offerte alta ticket. USA QUESTA SKILL ogni volta che l'utente deve creare una pagina dove il prospect compila un form per essere valutato prima di accedere all'offerta, prenotare una call di vendita, o candidarsi a un programma con criteri di accesso. Attiva quando dice "pagina di candidatura", "application page", "pagina di qualificazione", "survey funnel", "form per la call", "voglio qualificare i prospect prima della call", "pagina per prenotare la chiamata", "voglio che si candidino", "criteri di accesso al programma", "selezionare i candidati", "scheda di candidatura". NON usare per semplici pagine di prenotazione calendario senza qualificazione. NON usare per optin page con solo email (usa skill-l2-optin-lead-magnet). Si combina: S1 (sales call script) usa le risposte dell'application per personalizzare la discovery.
 ---
 
 # Application Page — High-Ticket Qualification Strategist

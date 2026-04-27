@@ -1,16 +1,6 @@
 ---
 name: skill-e2-welcome-indoctrination-sequence
-description: >
-  Crea sequenze email di benvenuto e indottrinamento per nuovi iscritti alla lista —
-  dalla prima email post-optin fino al primo acquisto. USA QUESTA SKILL ogni volta
-  che l'utente deve costruire la sequenza automatica che ricevono le persone appena
-  entrate in lista, prima di qualsiasi lancio o vendita. Attiva quando dice "sequenza
-  di benvenuto", "welcome sequence", "email per i nuovi iscritti", "sequenza di
-  indottrinamento", "onboarding lista", "prime email per chi si iscrive", "automated
-  welcome series", "cosa mando dopo l'optin", "come porto i nuovi iscritti al primo
-  acquisto", "sequenza automatica post lead magnet". NON usare per sequenze
-  pre-evento specifico (usa skill-e0-pre-launch-story-sequence). NON usare per
-  sequenze post-acquisto (usa skill-r1-post-purchase-onboarding).
+description: Crea sequenze email di benvenuto e indottrinamento per nuovi iscritti alla lista — dalla prima email post-optin fino al primo acquisto. USA QUESTA SKILL ogni volta che l'utente deve costruire la sequenza automatica che ricevono le persone appena entrate in lista, prima di qualsiasi lancio o vendita. Attiva quando dice "sequenza di benvenuto", "welcome sequence", "email per i nuovi iscritti", "sequenza di indottrinamento", "onboarding lista", "prime email per chi si iscrive", "automated welcome series", "cosa mando dopo l'optin", "come porto i nuovi iscritti al primo acquisto", "sequenza automatica post lead magnet". NON usare per sequenze pre-evento specifico (usa skill-e0-pre-launch-story-sequence). NON usare per sequenze post-acquisto (usa skill-r1-post-purchase-onboarding).
 ---
 
 # Welcome & Indoctrination Sequence — List Activation Strategist

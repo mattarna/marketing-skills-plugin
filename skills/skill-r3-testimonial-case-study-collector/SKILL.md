@@ -1,16 +1,6 @@
 ---
 name: skill-r3-testimonial-case-study-collector
-description: >
-  Crea il sistema completo per raccogliere testimonianze e costruire case study
-  dai clienti — email di richiesta, domande guida, template di compilazione,
-  e formattazione per l'uso in asset marketing. USA QUESTA SKILL ogni volta che
-  l'utente vuole raccogliere prove sociali dai propri clienti in modo sistematico.
-  Attiva quando dice "raccogliere testimonianze", "chiedere le recensioni",
-  "case study clienti", "come chiedo i feedback", "voglio la prova sociale",
-  "raccogliere risultati dai clienti", "testimonial", "success stories",
-  "sistema per raccogliere proof", "come faccio a farmi dare le testimonianze".
-  Output di questa skill alimenta skill-l4-social-proof-block-writer
-  (che costruisce le sezioni proof per le pagine) e le email della serie E.
+description: Crea il sistema completo per raccogliere testimonianze e costruire case study dai clienti — email di richiesta, domande guida, template di compilazione, e formattazione per l'uso in asset marketing. USA QUESTA SKILL ogni volta che l'utente vuole raccogliere prove sociali dai propri clienti in modo sistematico. Attiva quando dice "raccogliere testimonianze", "chiedere le recensioni", "case study clienti", "come chiedo i feedback", "voglio la prova sociale", "raccogliere risultati dai clienti", "testimonial", "success stories", "sistema per raccogliere proof", "come faccio a farmi dare le testimonianze". Output di questa skill alimenta skill-l4-social-proof-block-writer (che costruisce le sezioni proof per le pagine) e le email della serie E.
 ---
 
 # Testimonial & Case Study Collector — Social Proof System Builder

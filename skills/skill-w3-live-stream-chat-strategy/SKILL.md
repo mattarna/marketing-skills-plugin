@@ -1,16 +1,6 @@
 ---
 name: skill-w3-live-stream-chat-strategy
-description: >
-  Produce il piano completo dei messaggi CTA per la chat di un live stream o webinar —
-  testo dei messaggi, timing preciso sullo script, formato e istruzioni per chi gestisce
-  la chat. USA QUESTA SKILL ogni volta che l'utente deve pianificare cosa mandare nella
-  chat durante un evento live su YouTube, Zoom, o qualsiasi piattaforma di streaming.
-  Attiva quando dice "messaggi chat webinar", "CTA in chat", "cosa metto in chat durante
-  il live", "messaggi per la chat YouTube", "piano chat live", "script chat", "chi
-  gestisce la chat", "link in chat", "quando mando il link", "messaggi durante il webinar",
-  "chat strategy live". NON usare per scrivere lo script del webinar stesso (usa
-  skill-w1-webinar-script-builder). Si combina: W1 (script) e W2 (slide deck) forniscono
-  il timing di riferimento, E0/E1 forniscono il tono del brand.
+description: Produce il piano completo dei messaggi CTA per la chat di un live stream o webinar — testo dei messaggi, timing preciso sullo script, formato e istruzioni per chi gestisce la chat. USA QUESTA SKILL ogni volta che l'utente deve pianificare cosa mandare nella chat durante un evento live su YouTube, Zoom, o qualsiasi piattaforma di streaming. Attiva quando dice "messaggi chat webinar", "CTA in chat", "cosa metto in chat durante il live", "messaggi per la chat YouTube", "piano chat live", "script chat", "chi gestisce la chat", "link in chat", "quando mando il link", "messaggi durante il webinar", "chat strategy live". NON usare per scrivere lo script del webinar stesso (usa skill-w1-webinar-script-builder). Si combina: W1 (script) e W2 (slide deck) forniscono il timing di riferimento, E0/E1 forniscono il tono del brand.
 ---
 
 # Live Stream Chat Strategy — Event Conversion Specialist

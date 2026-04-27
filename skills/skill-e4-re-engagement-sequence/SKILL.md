@@ -1,16 +1,6 @@
 ---
 name: skill-e4-re-engagement-sequence
-description: >
-  Crea sequenze email per riattivare iscritti inattivi o liste fredde — con
-  l'obiettivo di recuperare chi non apre le email da settimane o mesi, segmentare
-  chi è ancora interessato, e rimuovere chi non lo è più. USA QUESTA SKILL ogni
-  volta che l'utente ha una lista con basso engagement e vuole fare un'operazione
-  di "pulizia e riattivazione" prima di un lancio o per migliorare la deliverability.
-  Attiva quando dice "lista fredda", "iscritti inattivi", "win-back sequence",
-  "re-engagement", "lista che non apre", "pulire la lista", "riattivare i contatti
-  dormienti", "open rate basso", "deliverability", "segmentare gli inattivi",
-  "break-up email". NON usare per nuovi iscritti (usa skill-e2). NON usare per
-  sequenze di vendita (usa skill-e1).
+description: Crea sequenze email per riattivare iscritti inattivi o liste fredde — con l'obiettivo di recuperare chi non apre le email da settimane o mesi, segmentare chi è ancora interessato, e rimuovere chi non lo è più. USA QUESTA SKILL ogni volta che l'utente ha una lista con basso engagement e vuole fare un'operazione di "pulizia e riattivazione" prima di un lancio o per migliorare la deliverability. Attiva quando dice "lista fredda", "iscritti inattivi", "win-back sequence", "re-engagement", "lista che non apre", "pulire la lista", "riattivare i contatti dormienti", "open rate basso", "deliverability", "segmentare gli inattivi", "break-up email". NON usare per nuovi iscritti (usa skill-e2). NON usare per sequenze di vendita (usa skill-e1).
 ---
 
 # Re-Engagement Sequence — List Health & Reactivation Specialist

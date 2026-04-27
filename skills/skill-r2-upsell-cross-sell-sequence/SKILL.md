@@ -1,16 +1,6 @@
 ---
 name: skill-r2-upsell-cross-sell-sequence
-description: >
-  Costruisce sequenze email per proporre offerte superiori o complementari a
-  clienti esistenti. USA QUESTA SKILL ogni volta che l'utente vuole fare upsell
-  o cross-sell verso chi ha già acquistato, sfruttando la fiducia costruita per
-  proporre il passo successivo nel percorso. Attiva quando dice "upsell ai clienti",
-  "cross-sell", "proposta ai clienti esistenti", "sequenza per far comprare di più
-  a chi ha già comprato", "offerta successiva ai clienti", "da corso a coaching",
-  "upgrade clienti", "ascension model", "value ladder", "far salire i clienti
-  nel funnel". NON usare per upsell immediato post-acquisto (quello è in
-  skill-l6b e skill-r1). NON usare per prospect che non hanno ancora comprato
-  (usa skill-e1 o skill-e3).
+description: Costruisce sequenze email per proporre offerte superiori o complementari a clienti esistenti. USA QUESTA SKILL ogni volta che l'utente vuole fare upsell o cross-sell verso chi ha già acquistato, sfruttando la fiducia costruita per proporre il passo successivo nel percorso. Attiva quando dice "upsell ai clienti", "cross-sell", "proposta ai clienti esistenti", "sequenza per far comprare di più a chi ha già comprato", "offerta successiva ai clienti", "da corso a coaching", "upgrade clienti", "ascension model", "value ladder", "far salire i clienti nel funnel". NON usare per upsell immediato post-acquisto (quello è in skill-l6b e skill-r1). NON usare per prospect che non hanno ancora comprato (usa skill-e1 o skill-e3).
 ---
 
 # Upsell & Cross-Sell Sequence — Customer Ascension Strategist

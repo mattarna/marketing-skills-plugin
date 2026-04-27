@@ -1,17 +1,6 @@
 ---
 name: skill-e3-nurture-sequence
-description: >
-  Costruisce sequenze email evergreen di nurture per mantenere attiva la relazione
-  con la lista nel tempo — tra un lancio e l'altro, verso il primo acquisto per chi
-  non ha ancora comprato, o per riattivare segmenti inattivi. USA QUESTA SKILL ogni
-  volta che l'utente deve scrivere email che non vendono nulla in modo diretto ma
-  mantengono vivo il rapporto con la lista, educano progressivamente il target, e
-  preparano il terreno per offerte future. Attiva quando dice "sequenza di nurture",
-  "email tra un lancio e l'altro", "come tengo calda la lista", "nurture evergreen",
-  "email per chi non ha ancora comprato", "sequenza automatica lunga", "drip campaign",
-  "email di relazione", "come non morire nella inbox", "contenuto email ongoing".
-  NON usare per sequenze con obiettivo di vendita immediata (usa skill-e1).
-  NON usare per la welcome sequence iniziale (usa skill-e2).
+description: Costruisce sequenze email evergreen di nurture per mantenere attiva la relazione con la lista nel tempo — tra un lancio e l'altro, verso il primo acquisto per chi non ha ancora comprato, o per riattivare segmenti inattivi. USA QUESTA SKILL ogni volta che l'utente deve scrivere email che non vendono nulla in modo diretto ma mantengono vivo il rapporto con la lista, educano progressivamente il target, e preparano il terreno per offerte future. Attiva quando dice "sequenza di nurture", "email tra un lancio e l'altro", "come tengo calda la lista", "nurture evergreen", "email per chi non ha ancora comprato", "sequenza automatica lunga", "drip campaign", "email di relazione", "come non morire nella inbox", "contenuto email ongoing". NON usare per sequenze con obiettivo di vendita immediata (usa skill-e1). NON usare per la welcome sequence iniziale (usa skill-e2).
 ---
 
 # Nurture Sequence — Long-Term Relationship Email Strategist

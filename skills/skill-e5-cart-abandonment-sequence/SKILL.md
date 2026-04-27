@@ -1,16 +1,6 @@
 ---
 name: skill-e5-cart-abandonment-sequence
-description: >
-  Crea sequenze email per recuperare chi ha iniziato il processo di acquisto ma
-  non ha completato il checkout. USA QUESTA SKILL ogni volta che l'utente vuole
-  recuperare i prospect che hanno cliccato la CTA, visitato la sales page o
-  avviato il checkout senza comprare. Attiva quando dice "email per chi non ha
-  completato l'acquisto", "cart abandonment", "recuperare i checkout abbandonati",
-  "email per chi ha cliccato ma non ha comprato", "sequenza abbandono carrello",
-  "follow-up dopo click CTA", "recupero vendite perse", "chi ha visitato la pagina
-  di acquisto senza comprare". Si combina: E1 (close sequence) opera su tutta
-  la lista, E5 opera su chi ha già mostrato intenzione di acquisto (segmento
-  più caldo). S1 (sales call) può essere il fallback per alta ticket.
+description: Crea sequenze email per recuperare chi ha iniziato il processo di acquisto ma non ha completato il checkout. USA QUESTA SKILL ogni volta che l'utente vuole recuperare i prospect che hanno cliccato la CTA, visitato la sales page o avviato il checkout senza comprare. Attiva quando dice "email per chi non ha completato l'acquisto", "cart abandonment", "recuperare i checkout abbandonati", "email per chi ha cliccato ma non ha comprato", "sequenza abbandono carrello", "follow-up dopo click CTA", "recupero vendite perse", "chi ha visitato la pagina di acquisto senza comprare". Si combina: E1 (close sequence) opera su tutta la lista, E5 opera su chi ha già mostrato intenzione di acquisto (segmento più caldo). S1 (sales call) può essere il fallback per alta ticket.
 ---
 
 # Cart Abandonment Sequence — Conversion Recovery Specialist

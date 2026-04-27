@@ -1,16 +1,6 @@
 ---
 name: skill-r1-post-purchase-onboarding
-description: >
-  Costruisce la sequenza email di onboarding per i nuovi acquirenti — dalla conferma
-  di acquisto all'attivazione completa del cliente. USA QUESTA SKILL ogni volta che
-  l'utente deve creare le email che ricevono le persone dopo aver comprato un corso,
-  programma, membership o servizio. Attiva quando dice "email post-acquisto",
-  "sequenza onboarding clienti", "welcome email clienti", "cosa mando a chi ha
-  comprato", "email di benvenuto clienti", "onboarding corso", "email dopo il
-  pagamento Stripe", "come attivo i nuovi clienti", "ridurre il buyer's remorse",
-  "email per chi ha appena comprato", "attivazione nuovi studenti". NON usare
-  per la thank you page (usa skill-l6b-thank-you-page-post-purchase). NON usare
-  per sequenze di upsell verso prodotti successivi (usa skill-r2-upsell-cross-sell).
+description: Costruisce la sequenza email di onboarding per i nuovi acquirenti — dalla conferma di acquisto all'attivazione completa del cliente. USA QUESTA SKILL ogni volta che l'utente deve creare le email che ricevono le persone dopo aver comprato un corso, programma, membership o servizio. Attiva quando dice "email post-acquisto", "sequenza onboarding clienti", "welcome email clienti", "cosa mando a chi ha comprato", "email di benvenuto clienti", "onboarding corso", "email dopo il pagamento Stripe", "come attivo i nuovi clienti", "ridurre il buyer's remorse", "email per chi ha appena comprato", "attivazione nuovi studenti". NON usare per la thank you page (usa skill-l6b-thank-you-page-post-purchase). NON usare per sequenze di upsell verso prodotti successivi (usa skill-r2-upsell-cross-sell).
 ---
 
 # Post-Purchase Onboarding — Customer Success Email Specialist

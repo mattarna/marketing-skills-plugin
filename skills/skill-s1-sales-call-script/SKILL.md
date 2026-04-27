@@ -1,19 +1,6 @@
 ---
 name: skill-s1-sales-call-script
-description: >
-  Costruisce script e framework completi per call di vendita 1-on-1 su offerte
-  alta ticket. USA QUESTA SKILL ogni volta che l'utente deve preparare o strutturare
-  una call di vendita, una discovery call, una closing call, o vuole formare un
-  venditore su come gestire una conversazione commerciale ad alto valore. Attiva
-  quando dice "script call di vendita", "come chiudo al telefono", "framework per
-  la call", "closing call", "discovery call", "come gestisco le obiezioni in call",
-  "voglio formare il mio commerciale", "script per vendere alta ticket", "call
-  consultiva", "come presento il prezzo in call", "gestione del silenzio", "follow-up
-  post-call". NON usare per copy scritto di sales page (usa skill-l1-sales-page-longform).
-  NON usare per script webinar (usa skill-w1-webinar-script-builder). Si combina:
-  C6 (objection handler) fornisce le risposte alle obiezioni, A2 (offer design)
-  fornisce la struttura dell'offerta da presentare, P1b (B2B ICP) per contesti
-  enterprise multi-decisore.
+description: Costruisce script e framework completi per call di vendita 1-on-1 su offerte alta ticket. USA QUESTA SKILL ogni volta che l'utente deve preparare o strutturare una call di vendita, una discovery call, una closing call, o vuole formare un venditore su come gestire una conversazione commerciale ad alto valore. Attiva quando dice "script call di vendita", "come chiudo al telefono", "framework per la call", "closing call", "discovery call", "come gestisco le obiezioni in call", "voglio formare il mio commerciale", "script per vendere alta ticket", "call consultiva", "come presento il prezzo in call", "gestione del silenzio", "follow-up post-call". NON usare per copy scritto di sales page (usa skill-l1-sales-page-longform). NON usare per script webinar (usa skill-w1-webinar-script-builder). Si combina: C6 (objection handler) fornisce le risposte alle obiezioni, A2 (offer design) fornisce la struttura dell'offerta da presentare, P1b (B2B ICP) per contesti enterprise multi-decisore.
 ---
 
 # Sales Call Script — High-Ticket Closing Strategist
