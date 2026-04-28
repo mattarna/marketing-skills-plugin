@@ -1,13 +1,46 @@
 {
   "name": "marketing-skills-marketplace",
   "owner": {
-    "name": "Matt"
+    "name": "Matt",
+    "email": "matteo@morfeushub.com"
+  },
+  "metadata": {
+    "description": "Plugin con 59 skill di marketing per info-business italiani, con orchestratore e knowledge base Hormozi/Fladlien",
+    "version": "3.0.0"
   },
   "plugins": [
     {
       "name": "marketing-skills",
-      "source": ".",
-      "description": "59 skill per marketing info-business ITA con orchestratore e KB Hormozi/Fladlien"
+      "source": "./plugins/marketing-skills",
+      "description": "59 skill per marketing info-business ITA con orchestratore e KB Hormozi/Fladlien",
+      "version": "3.0.0",
+      "author": {
+        "name": "Matt",
+        "email": "matteo@morfeushub.com"
+      },
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "copywriting",
+        "funnel",
+        "info-business",
+        "direct-response",
+        "email-marketing",
+        "sales-page",
+        "vsl",
+        "webinar",
+        "branding"
+      ],
+      "keywords": [
+        "marketing",
+        "copywriting",
+        "funnel",
+        "info-business",
+        "direct-response",
+        "hormozi",
+        "fladlien",
+        "italian"
+      ]
     }
   ]
 }

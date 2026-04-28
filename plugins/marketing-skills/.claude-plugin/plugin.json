@@ -1,8 +1,9 @@
 {
   "name": "marketing-skills",
-  "version": "3.0.0",
   "description": "59 skill per marketing info-business ITA con orchestratore e KB Hormozi/Fladlien",
+  "version": "3.0.0",
   "author": {
-    "name": "Matt"
+    "name": "Matt",
+    "email": "matteo@morfeushub.com"
   }
 }
